@@ -14,8 +14,6 @@
 
 📫 Со мной можно связаться любым из этих способов:
 
-📞 +7 (999) 632-32-54
-
 📱 Telegram: @Pierrdoon
 
 💻 Discord: mr.pierrdoon
