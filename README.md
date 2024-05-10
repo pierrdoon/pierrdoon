@@ -1,16 +1,20 @@
-### Hi there 👋
+Привет. Коротко о себе... 👋
 
-<!--
-**Nikita23t/Nikita23t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😎 Меня зовут Никита Царев
 
-Here are some ideas to get you started:
+🌆 Я живу в городе Ростов-на-Дону
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 Сейчас я работаю над собственными пет-проектами
+
+🔓 Активно применяю на проекте: ванильный js и react
+
+📄 В ближайших планах изучение: углубленное изучение react'a
+
+👯 Ищу команду, которая даст возможность развивать свои навыки
+
+📫 Со мной можно связаться любым из этих способов:
+
+📞 +7 (999) 632-32-54
+📱 Telegram: @Pierrdoon
+💻 Discord: mr.pierrdoon
+📧 n.tsarev2014@yandex.ru
