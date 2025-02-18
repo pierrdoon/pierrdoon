@@ -1,5 +1,5 @@
 # 💫 About Me:
-Привет. Коротко о себе... 👋<br><br>😎 Меня зовут Никита Царев<br><br>👨‍💻 Я бэкенд разработчик, использую node.js<br><br>🌆 Я живу в городе Ростов-на-Дону<br><br>🔨 Сейчас я работаю над собственными пет-проектами<br><br>🔓 Активно применяю на проектaх: JavaScript, TypeScript, node.js/nest.js, golang<br><br>📄 В ближайших планах изучение: GraphQL, Kafka<br><br>📫 Со мной можно связаться любым из этих способов:<br><br>📱 Telegram: @Pierrdoon<br><br>💻 Discord: mr.pierrdoon<br><br>📧 e-Mail:  n.tsarev2014@yandex.ru<br><br>🛣️ roadmap.sh: https://roadmap.sh/u/pierrdoon<br><br>
+Привет. Коротко о себе... 👋<br><br>😎 Меня зовут Никита Царев<br><br>👨‍💻 Я фуллстак разработчик, но больше нравятся задачи из бэкенда<br><br>🌆 Я живу в городе Ростов-на-Дону<br><br>🔨 Сейчас я работаю над собственными пет-проектами<br><br>🔓 Активно применяю на проектaх: JavaScript, TypeScript, node.js<br><br>📄 В ближайших планах изучение: более глубокое изучение react и пробовать next.js<br><br>📫 Со мной можно связаться любым из этих способов:<br><br>📱 Telegram: @Pierrdoon<br><br>💻 Discord: mr.pierrdoon<br><br>📧 e-Mail:  n.tsarev2014@yandex.ru<br><br>🛣️ roadmap.sh: https://roadmap.sh/u/pierrdoon<br><br>
 
 
 # 💻 Tech Stack:
