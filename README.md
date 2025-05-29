@@ -1,5 +1,5 @@
 # 💫 About Me:
-Привет. Коротко о себе... 👋<br><br>😎 Меня зовут Никита Царев<br><br>👨‍💻 Я фуллстак разработчик, но больше нравятся задачи из бэкенда<br><br>🌆 Я живу в городе Ростов-на-Дону<br><br>🔨 Сейчас я работаю над собственными пет-проектами<br><br>🔓 Активно применяю на проектaх: JavaScript, TypeScript, node.js<br><br>📄 В ближайших планах изучение: более глубокое изучение react и пробовать next.js<br><br>📫 Со мной можно связаться любым из этих способов:<br><br>📱 Telegram: @Pierrdoon23<br><br>💻 Discord: mr.pierrdoon<br><br>📧 e-Mail: n.tsarev2014@yandex.ru<br><br>🛣️ roadmap.sh: https://roadmap.sh/u/pierrdoon23<br>
+Привет. Коротко о себе... 👋<br><br>😎 Меня зовут Никита Царев<br><br>👨‍💻 Я фуллстак разработчик, но больше нравятся задачи из бэкенда<br><br>🌆 Я живу в городе Ростов-на-Дону<br><br>🔨 Сейчас я работаю над собственными пет-проектами<br><br>🔓 Активно применяю на проектaх: JavaScript, TypeScript, React, node.js<br><br>📄 В ближайших планах изучение: более глубокое изучение react и пробовать next.js<br><br>📫 Со мной можно связаться любым из этих способов:<br><br>📱 Telegram: @Pierrdoon23<br><br>💻 Discord: mr.pierrdoon<br><br>📧 e-Mail: n.tsarev2014@yandex.ru<br><br>🛣️ roadmap.sh: https://roadmap.sh/u/pierrdoon23<br>
 
 
 # 💻 Tech Stack:
@@ -7,9 +7,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nikita23t&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikita23t&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikita23t&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrdoon23t&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nikita23t&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pierrdoon23t&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
